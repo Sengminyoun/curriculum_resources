@@ -10,15 +10,15 @@ Maths during the day, python at night. <br />
 4) Elements of Statistical Learning (Book -> 6days)
 
 ### Linear Algebra
-1) [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&t=0s)
-2) [Khan Linear Algebra](https://www.khanacademy.org/math/linear-algebra) 
+1) [Essence of Linear Algebra -> 3days](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&t=0s)
+2) [Khan Linear Algebra -> 3days](https://www.khanacademy.org/math/linear-algebra) 
 
 ### Algebra/Precalculus/Calculus
-1) [Algebra & Precalculus](https://www.youtube.com/watch?v=LwCRRUa8yTU&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
-2) [Essence of Calculus](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&t=0s)
-4) [Khan Calculus 1](https://www.khanacademy.org/math/calculus-1)
-5) [Khan Calculus 2](https://www.khanacademy.org/math/calculus-2)
-6) [Khan Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+1) [Algebra & Precalculus -> 3days](https://www.youtube.com/watch?v=LwCRRUa8yTU&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
+2) [Essence of Calculus -> 3days](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&t=0s)
+4) [Khan Calculus 1 -> 3days](https://www.khanacademy.org/math/calculus-1)
+5) [Khan Calculus 2 -> 3days](https://www.khanacademy.org/math/calculus-2)
+6) [Khan Multivariable Calculus -> 3days](https://www.khanacademy.org/math/multivariable-calculus)
 
 ### Python
 1) [Python 기본편 6hrs -> 2days](https://www.youtube.com/watch?v=kWiCuklohdY&t=2476s)

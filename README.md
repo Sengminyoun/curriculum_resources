@@ -7,7 +7,7 @@ My personal curriculum and resources. Concocted by gathering information from va
 
 ### Linear Algebra
 
-### Statistics 
+### Calculus 
 
 ### SQL & MongoDB
 

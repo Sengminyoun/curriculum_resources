@@ -3,11 +3,13 @@ My personal curriculum and resources. Concocted by gathering information from va
 
 ### Statistics & Probability
 
-### Python 
-
 ### Linear Algebra
 
 ### Calculus 
+
+### Python 
+
+### R
 
 ### SQL & MongoDB
 

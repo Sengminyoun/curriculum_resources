@@ -8,6 +8,7 @@ Maths during the day, python at night. <br />
 2) [StatQuest (Statistics Fundamentals & Linear Regression Playlist) -> 6days](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 3) An Introduction to Statistical Learning (Book -> 6days) 
 4) Elements of Statistical Learning (Book -> 6days)
+5) [After Calc, MIT Open Courseware](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/video_galleries/lecture-videos/)
 
 ### Linear Algebra
 1) [Essence of Linear Algebra -> 3days](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&t=0s)

@@ -16,7 +16,7 @@ Maths during the day, python at night. <br />
 
 ### Algebra/Precalculus/Calculus
 1) [Algebra & Precalculus -> 3days](https://www.youtube.com/watch?v=LwCRRUa8yTU&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
-2) [Essence of Calculus -> 3days](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&t=0s)
+2) [Essence of Calculus -> 3days](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 4) [Khan Calculus 1 -> 3days](https://www.khanacademy.org/math/calculus-1)
 5) [Khan Calculus 2 -> 3days](https://www.khanacademy.org/math/calculus-2)
 6) [Khan Multivariable Calculus -> 3days](https://www.khanacademy.org/math/multivariable-calculus)

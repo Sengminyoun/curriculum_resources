@@ -6,13 +6,16 @@ Maths during the day, python at night. <br />
 ### Statistics & Probability
 1) [Khan Statistics & Probability Course -> 3days](https://www.khanacademy.org/math/statistics-probability)
 2) [StatQuest (Statistics Fundamentals & Linear Regression Playlist) -> 6days](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
-3) An Introduction to Statistical Learning (Book -> 6days) 
-4) Elements of Statistical Learning (Book -> 6days)
-5) [After Calc, MIT Open Courseware](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/video_galleries/lecture-videos/)
+3) [Probability Theory, MIT Open Courseware](https://youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+4) An Introduction to Statistical Learning (Book -> 6days) 
+5) Elements of Statistical Learning (Book -> 6days)
+6) [After Calc, MIT Open Courseware](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/video_galleries/lecture-videos/)
+7) [Seeing Theory by Brown University](https://seeing-theory.brown.edu/)
 
 ### Linear Algebra
 1) [Essence of Linear Algebra -> 3days](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&t=0s)
 2) [Khan Linear Algebra -> 3days](https://www.khanacademy.org/math/linear-algebra) 
+3) [Linear Algebra MIT Open Courseware](https://youtube.com/playlist?list=PL49CF3715CB9EF31D)
 
 ### Algebra/Precalculus/Calculus
 1) [Algebra & Precalculus -> 3days](https://www.youtube.com/watch?v=LwCRRUa8yTU&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)

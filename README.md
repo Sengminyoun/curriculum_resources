@@ -6,7 +6,7 @@ Maths during the day, python at night. <br />
 ### Statistics & Probability
 1) [Khan Statistics & Probability Course -> 3days](https://www.khanacademy.org/math/statistics-probability)
 2) [기초통계학 3시간 정리](https://www.youtube.com/watch?v=YaCQrJCgbqg&list=PL7SDcmtbDTTwlE3froxlw601augbo6mzc)
-3)[제대로 시작하는 기초통계학](https://www.youtube.com/watch?v=s6BIOQqbaUQ&list=PLsri7w6p16vtiu-mpViykeFQxzQqIV1gz&index=5)
+3) [제대로 시작하는 기초통계학](https://www.youtube.com/watch?v=s6BIOQqbaUQ&list=PLsri7w6p16vtiu-mpViykeFQxzQqIV1gz&index=5)
 4) [Probability Theory, MIT Open Courseware](https://youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 5) An Introduction to Statistical Learning (Book -> 6days) 
 6) Elements of Statistical Learning (Book -> 6days)

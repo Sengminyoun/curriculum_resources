@@ -5,7 +5,7 @@ Maths during the day, python at night. <br />
 
 ### Statistics & Probability
 1) [Khan Statistics & Probability Course -> 3days](https://www.khanacademy.org/math/statistics-probability)
-2) [StatQuest (Statistics Fundamentals & Linear Regression Playlist) -> 6days](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+2) [기초통계학 3시간 정리](https://www.youtube.com/watch?v=YaCQrJCgbqg&list=PL7SDcmtbDTTwlE3froxlw601augbo6mzc)
 3) [Probability Theory, MIT Open Courseware](https://youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 4) An Introduction to Statistical Learning (Book -> 6days) 
 5) Elements of Statistical Learning (Book -> 6days)
@@ -46,8 +46,8 @@ Maths during the day, python at night. <br />
 1) [Everything R](https://www.r-bloggers.com/2015/12/how-to-learn-r-2/)
 
 ### SQL & MongoDB
-1) [Khan SQL](https://www.khanacademy.org/computing/computer-programming/sql)
-2) SQLD 자격증 
+1) [SQLD 기초강의](https://www.youtube.com/watch?v=JE9OptIgFlY&list=PL7SDcmtbDTTy7l8qYMuqHhS3inKGLTmLy&index=4)
+2) [SQLD 문제풀이](https://www.youtube.com/watch?v=8uP_E6SyiuM)
 3) [Introduction to MongoDB](https://www.coursera.org/learn/introduction-mongodb)
 
 ### Machine Learning 

@@ -6,11 +6,12 @@ Maths during the day, python at night. <br />
 ### Statistics & Probability
 1) [Khan Statistics & Probability Course -> 3days](https://www.khanacademy.org/math/statistics-probability)
 2) [기초통계학 3시간 정리](https://www.youtube.com/watch?v=YaCQrJCgbqg&list=PL7SDcmtbDTTwlE3froxlw601augbo6mzc)
-3) [Probability Theory, MIT Open Courseware](https://youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
-4) An Introduction to Statistical Learning (Book -> 6days) 
-5) Elements of Statistical Learning (Book -> 6days)
-6) [After Calc, MIT Open Courseware](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/video_galleries/lecture-videos/)
-7) [Seeing Theory by Brown University](https://seeing-theory.brown.edu/)
+3)[제대로 시작하는 기초통계학](https://www.youtube.com/watch?v=s6BIOQqbaUQ&list=PLsri7w6p16vtiu-mpViykeFQxzQqIV1gz&index=5)
+4) [Probability Theory, MIT Open Courseware](https://youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+5) An Introduction to Statistical Learning (Book -> 6days) 
+6) Elements of Statistical Learning (Book -> 6days)
+7) [After Calc, MIT Open Courseware](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/video_galleries/lecture-videos/)
+8) [Seeing Theory by Brown University](https://seeing-theory.brown.edu/)
 
 ### Linear Algebra
 1) [Essence of Linear Algebra -> 3days](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&t=0s)

@@ -65,6 +65,9 @@ Maths during the day, python at night. <br />
 1) [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 2) [Data Science Stackexchange](https://datascience.stackexchange.com/)
 
+## 30 Minutes of Excel Every Night
+1) [진짜 쓰는 실무엑셀](https://youtube.com/playlist?list=PLvbX4wFD7b73sMnGSoNwI1vMLOM7aHGaa)
+
 ### Project Plans
 
 

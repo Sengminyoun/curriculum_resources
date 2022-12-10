@@ -40,7 +40,8 @@ Maths during the day, python at night. <br />
 11) [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)
 12) [Practice Projects Github](https://github.com/practical-tutorials/project-based-learning#python)
 13) [Euler Projects](https://projecteuler.net/)
-*[이수안 코딩 
+14) [이수안 파이썬 문법 이걸로](https://youtube.com/playlist?list=PL7ZVZgsnLwEEdhCYInwxRpj1Rc4EGmCUc)
+15) [이수안 데이터분석](https://youtube.com/playlist?list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS)
 
 ### Data Structures/Algorithms 
 1) [Introduction to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)

@@ -12,6 +12,7 @@ Maths during the day, python at night. <br />
 6) Elements of Statistical Learning (Book -> 6days)
 7) [After Calc, MIT Open Courseware](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/video_galleries/lecture-videos/)
 8) [Seeing Theory by Brown University](https://seeing-theory.brown.edu/)
+9) [베이즈정리](https://www.youtube.com/watch?v=euH9C61ywEM&list=PL5yujGYFVt0Cr2wyzeMfBKW_Pfktcdnjr&index=7)
 
 ### Linear Algebra
 1) [Essence of Linear Algebra -> 3days](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&t=0s)

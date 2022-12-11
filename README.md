@@ -44,8 +44,8 @@ Maths during the day, python at night. <br />
 15) [이수안 데이터분석](https://youtube.com/playlist?list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS)
 
 ### Data Structures/Algorithms 
-1) [Introduction to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
-
+1) [Udacity Introduction to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+2) [Algorithms and Data Structures Tutorial - Full Course for Beginners 6hrs](https://www.youtube.com/watch?v=8hly31xKli0)
 ### R
 1) [Everything R](https://www.r-bloggers.com/2015/12/how-to-learn-r-2/)
 

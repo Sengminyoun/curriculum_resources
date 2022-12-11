@@ -46,6 +46,7 @@ Maths during the day, python at night. <br />
 ## Data Structures/Algorithms 
 1) [Udacity Introduction to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 2) [Algorithms and Data Structures Tutorial - Full Course for Beginners 6hrs](https://www.youtube.com/watch?v=8hly31xKli0)
+3) [Data Structures Easy to Advanced 8hrs](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
 ## R
 1) [Everything R](https://www.r-bloggers.com/2015/12/how-to-learn-r-2/)

@@ -14,6 +14,7 @@ Maths during the day, python at night. <br />
 8) [Seeing Theory by Brown University](https://seeing-theory.brown.edu/)
 9) [베이즈정리](https://www.youtube.com/watch?v=euH9C61ywEM&list=PL5yujGYFVt0Cr2wyzeMfBKW_Pfktcdnjr&index=7)
 10) [Certificate. Advanced stats for data science](https://www.coursera.org/specializations/advanced-statistics-data-science)
+11) [MIT Opencourseware](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
 ## Linear Algebra
 1) [Essence of Linear Algebra -> 3days](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&t=0s)

@@ -74,5 +74,6 @@ Maths during the day, python at night. <br />
 2) [Learn Excel Online](https://excel-practice-online.com/)
 
 ## Project Plans
-
+1) [How I would learn Data Analysis](https://www.youtube.com/watch?v=qWEHO8b6WbA)
+2) [Portfolio Ideas](https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-project-ideas/)
 

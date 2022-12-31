@@ -73,7 +73,7 @@ Maths during the day, python at night. <br />
 1) [진짜 쓰는 실무엑셀](https://youtube.com/playlist?list=PLvbX4wFD7b73sMnGSoNwI1vMLOM7aHGaa)
 2) [Learn Excel Online](https://excel-practice-online.com/)
 
-## Project Plans
+## Project Plans & Coding Practice
 1) [How I would learn Data Analysis](https://www.youtube.com/watch?v=qWEHO8b6WbA)
 2) [Portfolio Ideas](https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-project-ideas/)
-
+3) [프로그래머스 코딩 연습](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)

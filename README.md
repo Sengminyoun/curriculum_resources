@@ -44,6 +44,7 @@ Maths during the day, python at night. <br />
 13) [Euler Projects](https://projecteuler.net/)
 14) [이수안 파이썬 문법 이걸로](https://youtube.com/playlist?list=PL7ZVZgsnLwEEdhCYInwxRpj1Rc4EGmCUc)
 15) [이수안 데이터분석](https://youtube.com/playlist?list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS)
+16) [REGEX Cheatsheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
 
 ## Data Structures/Algorithms 
 1) [Udacity Introduction to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)

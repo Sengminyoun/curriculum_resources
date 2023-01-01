@@ -46,6 +46,7 @@ Maths during the day, python at night. <br />
 15) [이수안 데이터분석](https://youtube.com/playlist?list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS)
 16) [REGEX Cheatsheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
 17) [REGEX Tutorial](https://www.youtube.com/watch?v=nxjwB8up2gI)
+18) [Raw String r'\b\b'](https://koreapy.tistory.com/1401)
 
 ## Data Structures/Algorithms 
 1) [Udacity Introduction to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
